@@ -76,17 +76,19 @@ Line-height:21px;
 font-size: 15px;
 }
 
+
+
+
 .hero-button {
     outline: none;
     box-shadow: none;
     border: 0;
-    background: #458FF6;
+    /* background: #458FF6; */
     color: #458FF6;
     padding: 10px 20px;
     border-radius: 50px;
     cursor: pointer;
      margin-right: 1075px;
-      
 }
 
 
@@ -126,29 +128,204 @@ color: #000000;
     color: #7D7987
  }
 
- .content-body img{
-width: 40%;
-height: 387px;
+ .bird-img img{
+width: 45%;
+height: 395px;
 opacity: 100%;
 margin-top: 40px;
-
 }
 
-.content-bod-1{
-   border-radius: 15px;
-   padding-left:25px;
-   margin-right:1091px;
-   border: 3px solid  #000000;
+.content-1-1{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
     background: #ffffff;
-    color: #fff; 
-   margin-top: -390px;
+    margin-top: -390px;
+opacity: 0.9;
+margin-left: 220px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 880px;
 box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-/* padding:50px 50px 50px 50px  ; */
-
 }
 
-.content-bod-1 img {
-height: 100px;
-width: 35%;
- }
+.content-1 h3{
+color: #000000;
+}
+
+.content-1 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+
+letter-spacing: 0%;
+color: #7D7987;
+}
+
+
+.content-1-2{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
+    background: #ffffff;
+    margin-top: -250px;
+opacity: 0.9;
+margin-left: 530px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 560px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.content-2 h3{
+color: #000000;
+}
+
+.content-2 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+letter-spacing: 0%;
+color: #7D7987;
+}
+ 
+
+.content-1-3{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
+    background: #ffffff;
+    margin-top: -265px;
+opacity: 0.9;
+margin-left: 840px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 250px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.content-3 h3{
+color: #000000;
+}
+
+.content-3 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+letter-spacing: 0%;
+color: #7D7987;
+}
+
+.content-1-4{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
+    background: #ffffff;
+    margin-top: 20px;
+opacity: 0.9;
+margin-left: 220px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 882px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.content-4 h3{
+color: #000000;
+}
+
+.content-4 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+letter-spacing: 0%;
+color: #7D7987;
+}
+
+.content-1-5{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
+    background: #ffffff;
+    margin-top: -265px;
+opacity: 0.9;
+margin-left: 527px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 556px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.content-5 h3{
+color: #000000;
+margin-top: 40px;
+}
+
+.content-5 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+letter-spacing: 0%;
+color: #7D7987;
+}
+
+
+.content-1-6{
+    border: 2px solid #ffffff;
+    border-radius: 19px;
+    background: #ffffff;
+    margin-top: -265px;
+opacity: 0.9;
+margin-left: 840px; 
+padding-bottom: 25px;
+padding-top: 25px;
+padding-left: 20px;
+margin-right: 245px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.content-6 h3{
+color: #000000;
+}
+
+.content-6 p{
+font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+letter-spacing: 0%;
+color: #7D7987;
+}
+
+.moyin img{
+    /* opacity: 1; */
+    margin-top: -200px;
+    margin-left: 1044px;
+}
+
+.mofe-btn{
+    text-align: center;
+}
+
+.btn-sign{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #458FF6;
+    background: #ffffff;
+    color: #458FF6;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    /* padding-left: 45px; */
+    text-align: center;
+     margin-right: 1165px;
+     opacity: 0.9;
+      
+}
+
+
+.btn-sign:hover {
+    background:#fff;
+    /* color:  #458FF6; */
+    /* border: 1px solid  #458FF6; */
+}
  /*  content styling  end here */
