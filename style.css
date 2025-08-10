@@ -1,0 +1,145 @@
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap'); 
+
+ 
+*{
+    font-family: "DM Sans", sans-serif; 
+    font-family: "Amaka", sans-serif; 
+
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 70px;
+}
+
+.logo-img img{
+    height: 32px;
+    width: 85%;
+}
+
+/* this is to style the navbar */
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 100px;
+    /* display: flex; */
+}
+
+nav ul li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #919DAB;
+ margin-right: 20px;    
+}
+
+/* between header and hero starts */
+.moyo img{
+    height:80px;
+    width: -4%;
+}
+ /* between header and hero ends  */
+
+ /* hero section styling starts */
+.hero-section{
+    margin-top: 20px;
+}
+
+.hero-left{
+    margin-left: 150px;
+}
+
+ .hero-left h2{
+     font-family: Muli;
+font-weight: 700;
+font-size: 48px;
+line-height: 50px;
+letter-spacing: 2%; 
+color: #000000;
+} 
+
+.hero-left p{
+color: #7D7987;
+Line-height:21px;
+font-size: 15px;
+}
+
+.hero-button {
+    outline: none;
+    box-shadow: none;
+    border: 0;
+    background: #458FF6;
+    color: #458FF6;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+     margin-right: 1075px;
+      
+}
+
+
+.hero-button:hover {
+    background:#fff;
+    color:  #458FF6;
+    border: 1px solid  #458FF6;
+}
+
+.hero-right img{
+height: 395px;
+width: 36%;
+margin-top: -290px;
+margin-left: 685px;
+}
+ /* hero section styling ends */
+
+ /* content styling  starts here*/
+ .content-header{
+    text-align: center;
+ }
+
+ .content-header h2{
+color: #000000;
+ }
+
+.content-header img{
+    margin-bottom: 12px;
+}
+
+ .content-header p{
+    color: #7D7987
+ }
+
+ .content-body img{
+width: 40%;
+height: 387px;
+opacity: 100%;
+margin-top: 40px;
+}
+
+.content-bod{
+   border-radius: 15px;
+    background: #ffffff;
+    /* color: #fff; */
+   margin-top: -390px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+/* padding:50px 50px 50px 50px  ; */
+
+}
+
+.content-body-1 img {
+height: 20px;
+width: 20%;
+ }
+ /*  content styling  end here */
