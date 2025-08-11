@@ -558,6 +558,12 @@ text-align: center;
     height: 2px
 }
 
+.upside-bird img{
+    margin-left: 888px;
+    opacity: 100%;
+    margin-top: -550px;
+}
+
 
 .health-1-1{
     border: 2px solid #ffffff;
@@ -674,4 +680,79 @@ color: #7D7987;
 .health-footer-3 img{
     margin-left: 10px;
 }
+
+    
+.messi{
+    margin-left: 590px;
+    padding-right: 100px;
+    margin-top: 50px;
+}
+
+
+.btn-messi{
+    outline: none;
+    box-shadow: none;
+      border: 1px solid  #458FF6;
+    background: #ffffff;
+    color: #458FF6;
+    padding: 6px 36px;
+    border-radius: 50px;
+    cursor: pointer;
+    /* padding-left: 45px; */
+    text-align: center;
+     /* margin-right: 1165px; */
+     opacity: 0.9;
+      
+}
+
+
+.btn-messi:hover {
+    background:#fff;
+    /* color:  #458FF6; */
+    /* border: 1px solid  #458FF6; */
+}
+
 /* health-section ends here  */
+
+/* footer starts here */
+
+
+.trafalgar-footer{
+     border: 2px solid  #55aee9;
+     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+ .trafalgar-footer, .footer-right {
+    display: flex;
+    padding-right: 70px;
+    justify-content: space-between;
+}
+
+.footer-right {
+    gap: 100px; 
+}
+
+.footer-right p{
+    color: #ffffff;
+}
+
+.footer-right small {
+    display: block;
+    color: #ffffffd3;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+.img-1 img{
+    margin-top: -1px;
+    margin-left: 130px;
+}
+
+.img-2 img{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+/* footer ends here */
