@@ -746,13 +746,25 @@ color: #7D7987;
     padding: 10px 0;
 }
 
-.img-1 img{
-    margin-top: -1px;
-    margin-left: 130px;
+.footer-left img{
+margin-left: 170px;
 }
 
-.img-2 img{
-    margin-top: -50px;
-    margin-left: 50px;
+.footer-left h3{
+    color: #ffffff;
+    margin-top: -40px;
+    margin-left: 218px;
+}
+
+.footer-left p{
+    color: #ffffffd2;
+     margin-top: 30px;
+    margin-left: 170px;
+}
+
+.footer-left small{
+    color: #ffffffd2;
+    margin-top: 30px;
+    margin-left: 170px;
 }
 /* footer ends here */
