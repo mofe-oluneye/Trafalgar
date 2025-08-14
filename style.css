@@ -497,10 +497,13 @@ color: #7D7987;
 }
 
 .test-header{
+    margin-top: 35px;
     text-align: center;
+}
+
+.test-header h2{
     color: #FFFFFF;
     font-family: "Muli", sans-serif;
-    margin-top: 35px;
 }
 
 .test-img img{
@@ -587,7 +590,7 @@ box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 color: #000000;
 }
 
-.health-1-1 p{
+.health-1 p{
 font-family: Mulish;
 font-weight: 300;
 font-size: 16px;
@@ -768,3 +771,448 @@ margin-left: 170px;
     margin-left: 170px;
 }
 /* footer ends here */
+
+@media screen and (max-width: 1000px) {
+
+.logo-img img{
+    height: 26px;
+    width: 89%;
+    margin-left: 95px;
+}
+
+
+
+nav ul li {
+    margin-left: -163px;
+    display: flex;
+}
+
+nav ul li a {
+ margin-left: 10px;    
+ margin-top: 30px;
+}
+
+.moyo img{
+    height:56px;
+    width: 9%;
+}
+
+
+.hero-left{
+    margin-left: 25px;
+}
+
+
+ .hero-left h2{
+font-size: 23px;
+ Line-height:30px;
+} 
+
+.hero-left p{
+Line-height:17px; 
+font-size: 9px;
+}
+
+.hero-button{
+    margin-top: 7px;
+    width: 35%;
+}
+
+
+.hero-right img{
+height: 268px;
+width: 39%;
+margin-top: -290px;
+margin-left: 252px;
+}
+
+
+.content{
+    margin-top: 70px;
+}
+
+ .content-header h2{
+font-size: 22px;
+ }
+
+.content-header img{
+    margin-bottom: 12px;
+}
+
+ .content-header p{
+    font-size: 7px;
+    line-height: 15px;
+ }
+ 
+ .bird-img img{
+width: 60%;
+height: 300px;
+opacity: 100%;
+margin-top: 40px;
+}
+
+
+.content-1-1{
+    margin-top: -250px;
+margin-left: 9px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+margin-right: 880px;
+}
+.content-1 img{
+margin-left: -180px;
+}
+
+.content-1 h3{
+    margin-left: -180px;
+}
+
+.content-1 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+.content-1-2{
+    margin-top: -250px;
+margin-left: 214px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+}
+.content-2 img{
+margin-left: -180px;
+}
+
+.content-2 h3{
+    margin-left: -180px;
+}
+
+.content-2 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+
+
+
+.content-1-3{
+    margin-top: 20px;
+margin-left: 9px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+margin-right: 880px;
+}
+.content-3 img{
+margin-left: -180px;
+}
+
+.content-3 h3{
+    margin-left: -180px;
+}
+
+.content-3 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+
+
+.content-1-4{
+    margin-top: -260px;
+margin-left: 214px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+}
+.content-4 img{
+margin-left: -180px;
+}
+
+.content-4 h3{
+    margin-left: -180px;
+}
+
+.content-4 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+
+.content-1-5{
+    margin-top: 20px;
+margin-left: 9px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+margin-right: 880px;
+}
+.content-5 img{
+margin-left: -180px;
+}
+
+.content-5 h3{
+    margin-left: -180px;
+}
+
+.content-5 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+
+.content-1-6{
+    margin-top: -245px;
+margin-left: 214px; 
+padding-bottom: 10px;
+padding-top: 25px;
+padding-left: 192px;
+}
+.content-6 img{
+margin-left: -180px;
+}
+
+.content-6 h3{
+    margin-left: -180px;
+}
+
+.content-6 p{
+    margin-left: -180px;
+font-size: 12px;
+}
+
+.btn-sign{
+  margin-top: -20px;
+    margin-left: -438px;   
+}
+
+.third-left img{
+    width: 47%;
+    height: 205px;
+    margin-left: 9px;
+}
+
+
+.third-right{
+    margin-top: -205px;
+   margin-left: 214px;
+}
+
+.third-right h2{
+    font-size: 20px;
+    line-height: 27px;
+
+}
+
+   .third-right img{
+    /* margin-top: 0px; */
+    width: 15%;
+    height: 2px;
+   } 
+
+.third-right p{
+    margin-top: -10px;
+    font-size: 9px;
+    line-height: 19px;
+}
+
+.mofe{
+    margin-top: 10px;
+}
+
+.btn-log{
+ /* margin-top: -20px; */
+    margin-left: -579px; 
+    padding-top: 6px;   
+}
+
+
+.fourth-sec{
+    margin-top: 50px;
+    margin-left: -146px;
+}
+
+.fourth-right img{
+   height: 300px;
+   width: 36%;
+   margin-top: 40px;
+   margin-left: 377px;
+}
+
+.fourth-left{
+    margin-top: -255px;
+   margin-left: 172px;
+}
+
+.fourth-left h2{
+    font-size: 20px;
+    line-height: 29px;
+}
+
+   .fourth-left img{
+    margin-bottom: 14px;
+    width: 9%;
+    height: 2px;
+   } 
+
+.fourth-left p{
+    margin-top: 6px;
+    font-size: 9px;
+    line-height: 19px;
+}
+
+
+.Testimonials{
+    margin-left: 8px;
+    margin-top: 100px;
+    margin-right: -24px;
+    padding-bottom: 40px;
+}
+
+.test-header{
+    margin-top: 35px;
+}
+
+.test-header h2{
+font-size: 17px;
+}
+
+.test-header img{
+    margin-bottom: 14px;
+    width: 9%;
+    height: 2px;
+    /* font-family: "Muli", sans-serif; */
+   } 
+
+.test-img img{
+    margin-left:6px;
+    margin-top: 60px;
+    width: 18%;
+    height: 67px;
+}
+
+.test-body{
+    margin-top: -50px;
+} 
+
+.test-left h4{
+margin-top: -60px;
+margin-left: 84px;
+font-size: 13px;
+}
+
+.test-left p{
+    margin-top: -14px;
+    margin-left: 84px;
+    font-size: 12px;
+}
+
+.test-right p{
+    margin-top: -65px;
+    margin-left: 210px;
+line-height: 18px;
+font-size: 10px;
+}
+
+   .test-footer img{
+    width: 30%;
+    height: 11px;
+    margin-left: 140px;
+    margin-top: 22px;
+   }
+
+
+
+
+   .health-section{
+    margin-top: 100px;
+}
+
+.health-header img{
+ margin-bottom: 14px;
+    width: 9%;
+    height: 2px
+}
+
+.upside-bird img{
+    margin-left: -66px;
+    opacity: 100%;
+    margin-top: -550px;
+}
+
+
+.health-1-1{
+    margin-top: 57px;
+margin-left: 31px; 
+padding-bottom: 25px;
+padding-top: 0px;
+padding-left: 20px;
+margin-right: 31px;
+}
+
+.health-1-2{
+    margin-top: 57px;
+margin-left: 31px; 
+padding-bottom: 25px;
+padding-top: 0px;
+padding-left: 20px;
+margin-right: 31px;
+}
+
+.health-1-3{
+    margin-top: 57px;
+margin-left: 31px; 
+padding-bottom: 25px;
+padding-top: 0px;
+padding-left: 20px;
+margin-right: 31px;
+}
+
+.messi{
+    margin-left: 136px;
+    margin-top: 11px;
+}
+
+.footer-right {
+    gap: 125px; 
+    margin-left: 98px;
+    margin-top: -176px;
+}
+
+.footer-right p{
+    margin-top: 378px;
+    margin-left: -190px;
+    font-size: 13px;
+}
+
+.footer-right small {
+    font-size: 12px;
+    margin-left:-189px;
+}
+
+.footer-left img{
+margin-left: 2px;
+}
+
+.footer-left h3{
+    margin-top: -40px;
+    margin-left: 50px;
+}
+
+.footer-left p{
+    font-size: 13px;
+    line-height: 19px;
+     margin-top: 30px; 
+     margin-right: -335px;
+     margin-left:13px ;
+}
+
+.footer-left small{
+font-size: 11px;
+/* line-height: 19px; */
+    margin-top: 30px;
+    margin-left: 16px;
+}
+
+}
