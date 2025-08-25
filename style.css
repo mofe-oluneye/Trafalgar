@@ -783,7 +783,7 @@ margin-left: 170px;
 }
 /* footer ends here */
 
-@media screen and (max-width: 10000px) {
+@media  (max-width: 768px) {
 
 body{
     margin: 0;
