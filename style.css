@@ -793,13 +793,13 @@ body{
 .logo-img img{
     height: 26px;
     width: 89%;
-    margin-left: 95px;
+    margin-left: 900px;
 }
 
 
 
 nav ul li {
-    margin-left: -163px;
+    margin-left: -239px;
     display: flex;
 }
 
@@ -839,7 +839,7 @@ text-align: center;
     margin-top: 7px;
     width: 35%;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 136px;
 }
 
 
@@ -847,7 +847,7 @@ text-align: center;
 height: 274px;
 width: 55%;
 margin-top: 22px;
-margin-left: 23px;
+margin-left: 92px;
 }
 
 
