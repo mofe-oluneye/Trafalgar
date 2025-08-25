@@ -783,7 +783,7 @@ margin-left: 170px;
 }
 /* footer ends here */
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 10000px) {
 
 body{
     margin: 0;
@@ -823,26 +823,31 @@ nav ul li a {
 
 
  .hero-left h2{
-font-size: 23px;
- Line-height:30px;
+font-size: 36px;
+ Line-height:40px;
+ text-align: center;
 } 
 
 .hero-left p{
-Line-height:17px; 
-font-size: 9px;
+Line-height:22px; 
+font-size: 15px;
+/* margin-left: 50px; */
+text-align: center;
 }
 
 .hero-button{
     margin-top: 7px;
     width: 35%;
+    text-align: center;
+    margin-left: 300px;
 }
 
 
 .hero-right img{
-height: 268px;
-width: 39%;
-margin-top: -290px;
-margin-left: 252px;
+height: 274px;
+width: 55%;
+margin-top: 22px;
+margin-left: 23px;
 }
 
 
@@ -1086,7 +1091,7 @@ font-size: 12px;
 .Testimonials{
     margin-left: 8px;
     margin-top: 100px;
-    margin-right: -24px;
+    margin-right: -3px;
     padding-bottom: 40px;
 }
 
