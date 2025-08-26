@@ -1018,12 +1018,14 @@ font-size: 12px;
     height: 205px;
     margin-left: 103px;
     margin-top: 240px;
+    margin-bottom: 178px;
 }
 
 
 .third-right{
-    margin-top: -442px;
+    margin-top: -628px;
    margin-left: 214px;
+   margin-bottom: 174px;
 }
 
 .third-right h2{
@@ -1050,7 +1052,9 @@ margin-left: -229px;
 }
 
 .mofe{
-    margin-top: 10px;
+    margin-top: -142px;
+    margin-bottom: 363px;
+    /* margin-left: 50px; */
 }
 
 .btn-log{
@@ -1072,13 +1076,13 @@ margin-left: -229px;
 .fourth-right img{
    height: 300px;
    width: 36%;
-   /* margin-top: 40px; */
-   margin-left: 377px;
+   margin-bottom: 317px;
+   margin-left: 245px;
 }
 
 .fourth-left{
     margin-top: -255px;
-   margin-left: 172px;
+   margin-left: 268px;
 }
 
 .fourth-left h2{
@@ -1102,7 +1106,9 @@ margin-left: -229px;
     font-size: 9px;
     line-height: 19px;
 }
-
+dorcas{
+    margin-left: 100px;
+}
 
 .Testimonials{
     margin-left: 8px;
