@@ -93,12 +93,11 @@ font-size: 15px;
     outline: none;
     box-shadow: none;
     border: 0;
-    /* background: #458FF6; */
-    color: #458FF6;
+    background: #458FF6;
+    color: #fff;
     padding: 10px 20px;
     border-radius: 50px;
     cursor: pointer;
-     margin-right: 1075px;
 }
 
 
@@ -474,11 +473,6 @@ color: #7D7987;
     padding: 10px 20px;
     border-radius: 50px;
     cursor: pointer;
-    /* padding-left: 45px; */
-    text-align: center;
-     /* margin-right: 1165px; */
-     opacity: 0.9;
-      
 }
 
 
@@ -490,8 +484,8 @@ color: #7D7987;
 
 .dorcas img{
     /* margin-top: 13px; */
-    margin-left: 5px;
-    width: 12%;
+    /* margin-left: 5px; */
+    /* width: 12%; */
     height: 14px;
 }
 /* fourth part ends here */
@@ -574,7 +568,7 @@ text-align: center;
 }
 
 .upside-bird img{
-    margin-left: 888px;
+    margin-left: 873px;
     opacity: 100%;
     margin-top: -550px;
 }
@@ -590,7 +584,7 @@ margin-left: 134px;
 padding-bottom: 25px;
 padding-top: 0px;
 padding-left: 20px;
-margin-right: 882px;
+margin-right: 867px;
 box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
@@ -629,7 +623,7 @@ margin-left: 525px;
 padding-bottom: 25px;
 padding-top: 0px;
 padding-left: 20px;
-margin-right: 491px;
+margin-right: 476px;
 box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
@@ -639,6 +633,7 @@ box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
 .health-2 h3{
 color: #000000;
+font-size: 27px;
 }
 
 .health-1-2 p{
@@ -667,7 +662,7 @@ margin-left: 911px;
 padding-bottom: 25px;
 padding-top: 0px;
 padding-left: 20px;
-margin-right: 105px;
+margin-right: 90px;
 box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
